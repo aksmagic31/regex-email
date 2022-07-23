@@ -43,7 +43,7 @@ The OR Operator in Regex is defined by "|" or "\| ” and they are also called t
 There are different flag varibles, namely: g , i , m , u , s , y. Those are option flags that each have a meaning and will affect the search result. g flag means look for all matches, so without it only first result is returned. i flag indicates search is not case sensitive. u flag uses full unicode support and m flag means multiline mode. For example, regexp = /pattern/gmi; has g m i flag so the search result will return all results which are case sensitive and have multiline mode. 
 
 ### Character Escapes
-The \ symbol,known as the escape code, preceeds some literal character. In the expression, \da-z it means single digit of the character a-z. Ther can be also usage of Escape Characters to represent common character classes, such as 
+The \ symbol,known as the escape code, preceeds some literal character. In the expression, \da-z it means single digit of the character a-z. Ther can be also usage of Escape Characters to represent common character classes, such as \w for a word character or \s for a space.
 
 ## Author
 Wenyu Zhang
