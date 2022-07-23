@@ -1,4 +1,5 @@
 ## Regex Tutorial - Matching An Email
+link: https://gist.github.com/aksmagic31/cb38dc5d8072b409193ed28fc5074bde
 
 ## Summary
 Below is the regex expression used for validating an email address.
